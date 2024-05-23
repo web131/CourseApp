@@ -1,4 +1,4 @@
-import HorizonLogo from '@/app/ui/acme-logo';
+import HorizonLogo from '@/app/ui/horizon-logo';
 import LoginForm from '@/app/ui/login-form';
 
 export default function LoginPage() {

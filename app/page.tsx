@@ -1,4 +1,4 @@
-import HorizonLogo from '@/app/ui/acme-logo';
+import HorizonLogo from '@/app/ui/horizon-logo';
 import { ArrowRightIcon } from '@heroicons/react/24/outline';
 import Link from 'next/link';
 import { lusitana } from '@/app/ui/fonts';
