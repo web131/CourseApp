@@ -2,7 +2,7 @@
 
 Public Home Page: A welcoming landing page accessible to all users.
 
-Login Page: Secure login functionality for registered users.
+Login Page: Secure login functionality.
 
 Dashboard Pages: Authenticated users can access dashboard pages.
 
